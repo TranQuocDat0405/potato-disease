@@ -13,7 +13,7 @@ This project helps farmers classify whether a plant is diseased by analyzing ima
 ## Setup Instructions
 1. Install Dependencies: Make sure you have Python installed on your system. Install the required Python libraries by running the following command:
    ```
-   pip install -r requirements.txt
+   pip install -r api/requirements.txt
    ```
 2. Run the FastAPI Server: To start the server, use the following command:
    - Run website
