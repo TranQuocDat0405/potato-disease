@@ -27,3 +27,7 @@ This project helps farmers classify whether a plant is diseased by analyzing ima
     cd api
     python main.py
     ```
+## Usage
+Upload an image file to the FastAPI endpoint for classification.
+
+The output will include the classification accuracy and the identified disease affecting the plant.
